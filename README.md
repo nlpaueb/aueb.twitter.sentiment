@@ -10,4 +10,4 @@ Soon to be released.
 
 #Features list
 
-The complete list of the features which are used for a message's sentiment classification can be found in features.md
+The complete list of the features which are used for a message's sentiment classification can be found in [features.md](./features.md)
