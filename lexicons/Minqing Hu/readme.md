@@ -4,4 +4,4 @@ negative-words.txt
 positive-words.txt
 
 
-For more read instructions.md
+For more read [instructions.md](../../instructions.md)
