@@ -6,4 +6,4 @@ glove.twitter.27B.100d.txt
 glove.twitter.27B.200d.txt
 
 
-For more read instructions.md
+For more read [instructions.md](../../instructions.md)
