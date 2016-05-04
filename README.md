@@ -46,7 +46,7 @@ In order to be able to run the code successfully you should follow the instructi
 
 #Training
 
-To train the system you run the following command:
+To train the system run :
 
 ```
 python train.py dataset_file
@@ -66,7 +66,7 @@ where message_id, message_sentiment and message are separated with tab.
 
 #Sentiment Detection
 
-To detect the sentiment of a tweet you run
+To detect the sentiment of a tweet run :
 
 ```
 python detect_sentiment.py “your tweet”
