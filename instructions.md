@@ -1,4 +1,4 @@
-##Instructions for downloading all required file
+##Instructions for downloading all required files
 
 1. **Word clusters**
   * Go to http://www.cs.cmu.edu/~ark/TweetNLP/ 
