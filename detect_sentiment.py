@@ -33,7 +33,7 @@ def main(messages_test):
 	print "Resources loaded"
 	
 	#load Glove embeddings
-	d = 25
+	d = 200
 	glove = loadGlove(d)
 		
 	#Subjectivity Detection Features
