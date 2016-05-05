@@ -4,18 +4,15 @@ This is the software that accompanies the paper "aueb.twitter.sentiment at SemEv
 
 The basic functionality of the software is to detect the sentiment (positive, negative, neutral) of a message.
 
+#Getting started
+```
+Python version 2.7.10
+```
 #Requirements
-
-First of all you should install pip, python and git :
-
-```
-sudo apt-get install python-pip python-dev git
-```
 
 If you are using virtualenv run :
 
 ```
-sudo apt-get install python-virtualenv
 virtualenv env
 source env/bin/activate
 ```
@@ -38,6 +35,20 @@ python -c "import nltk;nltk.download('wordnet')"
 ```
 git clone https://github.com/nlpaueb/aueb.twitter.sentiment.git
 cd aueb.twitter.sentiment
+```
+
+#Troubleshooting :
+
+Make sure that you have the following requirements installed:
+
+```
+sudo apt-get install python-pip python-dev git
+```
+
+Make sure that you have a java compiler installed needed for the pos tagging :
+
+```
+sudo apt-get install openjdk-7-jdk
 ```
 
 #External files
