@@ -7,6 +7,7 @@ The basic functionality of the software is to detect the sentiment (positive, ne
 #Getting started
 ```
 Python version 2.7.10
+Operating System : Linux(Ubuntu)
 ```
 #Requirements
 
