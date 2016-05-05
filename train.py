@@ -78,7 +78,7 @@ def main(f):
 	saveClusters(clusters)
 	
 	#load Glove embeddings
-	d = 25
+	d = 200
 	glove = GloveDictionary.Glove(d)
 
 	#save Glove embeddings for future use
